@@ -1,4 +1,4 @@
-Prject Pybroker :
+Project Pybroker :
 
 Comparing with holding spot and trading system by using indicator SMA14 and ATR100
 
